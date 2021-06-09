@@ -54,3 +54,8 @@ html {
     justify-content: space-around;
     padding: 10px;
   }
+  .column{
+    padding: 20px;
+    margin: 10px 10px 10px 0;
+    
+  }
