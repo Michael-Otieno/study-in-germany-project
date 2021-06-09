@@ -29,7 +29,12 @@ html {
   
   header{
     box-sizing: border-box;
-  }
+    display: flex;
+    height: 200px;
+    background-color: rgb(212, 214, 216);
+    overflow: scroll;
+
+     }
   body{
     margin: 50px auto 50px auto;
     background:rgba(255,255,255, 0.8);
