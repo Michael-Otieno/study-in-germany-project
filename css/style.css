@@ -48,3 +48,9 @@ html {
     display: flex;
     justify-content: space-between;
   }
+  footer{
+    background-color: rgb(148, 252, 242);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+  }
