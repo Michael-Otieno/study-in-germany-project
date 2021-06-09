@@ -71,3 +71,8 @@ html {
     flex: 2;
     
   }
+  #content-3{
+    background-color: rgb(169, 241, 249);
+    flex: 1;
+    margin-right: 0;
+  }
