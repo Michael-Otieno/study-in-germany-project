@@ -42,3 +42,9 @@ html {
     flex-direction: column;
     justify-content: space-between;
   }
+  main{
+    background-color: rgba(232, 235, 239, 0.3);
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
