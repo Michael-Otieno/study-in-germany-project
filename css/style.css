@@ -80,3 +80,8 @@ html {
     color: rgb(250, 255, 0);
     font-weight: 900;
   }
+  a:hover{
+    font-weight: 900;
+    font-style: italic;
+    color: rgb(255, 0, 250);
+  }
