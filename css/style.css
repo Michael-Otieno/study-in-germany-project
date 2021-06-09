@@ -76,3 +76,7 @@ html {
     flex: 1;
     margin-right: 0;
   }
+  #content-1 a:hover{
+    color: rgb(250, 255, 0);
+    font-weight: 900;
+  }
